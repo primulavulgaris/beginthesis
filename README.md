@@ -1,2 +1,2 @@
-# beginthesis
-Thesis templates for Chalmers E2 PhD students
+# begin{thesis}
+The templates for Lic and PhD thesis for PhD students at Chalmers
